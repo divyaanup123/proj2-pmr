@@ -1,0 +1,7 @@
+Pearson correlation coefficient: 0.9694603141611813
+p-value: 0.03053968583881872
+
+Summary:
+The Pearson correlation coefficient of 0.969 indicates a very strong positive correlation between age and the rate.
+The p-value of 0.031 suggests that this correlation is statistically significant at the 5% significance level.
+This means that as age increases, the rate also tends to increase, and this relationship is statistically significant.
